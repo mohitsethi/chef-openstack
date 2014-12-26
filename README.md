@@ -1,4 +1,4 @@
 # openstack
 
-TODO: Enter the cookbook description here.
+This is a library cookbook to manage resources on Openstack
 
